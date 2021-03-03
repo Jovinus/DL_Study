@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7b00c90f-68b0-454d-ac3d-39ab4841f9d2" name="MLab_Server">
+        <fileTransfer accessType="SFTP" host="115.145.225.106" port="11004" sshConfigId="4e4440c9-51d5-423b-bb50-008466363a85" sshConfig="khl256@115.145.225.106:11004 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
